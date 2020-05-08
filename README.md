@@ -1,2 +1,3 @@
 # Normalize.min.css
-## I noticed that Normalize.css didn't have a minified version so here it is
+## Minified Normalize.css
+The Production (Minified) Version of Normalize.css
